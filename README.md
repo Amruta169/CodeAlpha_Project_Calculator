@@ -70,4 +70,4 @@ Add dark/light theme toggle
 **🧑‍💻 Author**
 
 Amruta Patil
-🔗 GitHub Profile
+🔗 [GitHub Profile](https://github.com/Amruta169/CodeAlpha_Project_Calculator.git)
