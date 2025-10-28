@@ -2,7 +2,6 @@
 
 A stylish and responsive **calculator web app** built using **HTML, CSS, and JavaScript**, featuring a glassmorphism design and smooth animations. This calculator performs all basic arithmetic operations and supports both mouse and keyboard inputs for better usability.
 
----
 
 ## 🚀 Features
 
