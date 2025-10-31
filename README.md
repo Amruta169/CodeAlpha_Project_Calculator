@@ -66,7 +66,6 @@ Include scientific mode (sin, cos, tan, etc.)
 
 Add dark/light theme toggle
 
-**🧑‍💻 Author**
-
-Amruta Patil
-🔗 [GitHub Profile](https://github.com/Amruta169/CodeAlpha_Project_Calculator.git)
+---
+## 🌐 Live Demo
+[View on GitHub Pages](https://www.linkedin.com/posts/amrutapatil21_codealpha-webdevelopment-html-activity-7390082908612513792-1TIb?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEIC3qQBl9ygxQ1rrtTr4txQiPo91J3Gp4Y)
