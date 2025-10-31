@@ -68,4 +68,4 @@ Add dark/light theme toggle
 
 ---
 ## 🌐 Live Demo
-[View on GitHub Pages](https://www.linkedin.com/posts/amrutapatil21_codealpha-webdevelopment-html-activity-7390082908612513792-1TIb?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEIC3qQBl9ygxQ1rrtTr4txQiPo91J3Gp4Y)
+[View on GitHub Pages](https://www.linkedin.com/posts/amrutapatil21_codealpha-webdevelopment-internship-activity-7388998482449240064-QLcg?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEIC3qQBl9ygxQ1rrtTr4txQiPo91J3Gp4Y)
